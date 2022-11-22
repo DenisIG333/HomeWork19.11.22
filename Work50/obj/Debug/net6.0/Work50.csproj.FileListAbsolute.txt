@@ -1,0 +1,15 @@
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.AssemblyInfoInputs.cache
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.AssemblyInfo.cs
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\bin\Debug\net6.0\Work50.exe
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\bin\Debug\net6.0\Work50.deps.json
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\bin\Debug\net6.0\Work50.runtimeconfig.json
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\bin\Debug\net6.0\Work50.dll
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\bin\Debug\net6.0\Work50.pdb
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.dll
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\refint\Work50.dll
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.pdb
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\Work50.genruntimeconfig.cache
+D:\GeekBrains\HomeWorks\HomeWork_19.11.22\Work50\obj\Debug\net6.0\ref\Work50.dll
